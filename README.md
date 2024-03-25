@@ -1,8 +1,8 @@
-### Hey there :wave:
+### Hey there! <img src="res/wave.gif" width="25px">
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="res/banner.png" alt="Hello world">
 
-<h3>I'm Krishna Vamsi! <img src="https://github.com/VijayPrakashReddy-k/VijayPrakashReddy-k/blob/master/Images/logo.gif" width="50"></h3>
+<h3>I'm Krishna Vamsi! <img src="res/logo.gif" width="50"></h3>
 
 
 I am currently pursuing my master's degree in Computer Vision at the  [University of Central Florida](https://www.ucf.edu/).
@@ -14,8 +14,8 @@ Outside of work, I'm passionate about Cricket 🏏, cooking 🥘,  watching Movi
 
 **I enjoy connecting with like-minded individuals. Feel free to reach out through any of the platforms listed below!** 😊
 
-<img src="https://github.com/VijayPrakashReddy-k/VijayPrakashReddy-k/blob/master/Images/people.gif" width="60"> <h3>Contact</h3>
 
+<h3>Contact <img src="res/people.gif" width="50"></h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/G_Krishna_Vamsi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/g-krishna-vamsi) 
 ![Twitter Badge](https://img.shields.io/badge/-@KrishnaVamsi_G-1ca0f1?style=flat&labelColor=1ca0f1&logo=X&logoColor=white&link=https://twitter.com/KrishnaVamsi_G)
