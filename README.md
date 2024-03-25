@@ -17,8 +17,8 @@ Outside of work, I'm passionate about Cricket 🏏, cooking 🥘,  watching Movi
 
 <h3>Contact <img src="res/people.gif" width="50"></h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/G_Krishna_Vamsi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/g-krishna-vamsi) 
-![Twitter Badge](https://img.shields.io/badge/-@KrishnaVamsi_G-1ca0f1?style=flat&labelColor=1ca0f1&logo=X&logoColor=white&link=https://twitter.com/KrishnaVamsi_G)
+[![Linkedin Badge](https://img.shields.io/badge/G_Krishna_Vamsi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-krishna-vamsi) 
+[![Twitter Badge](https://img.shields.io/badge/-@KrishnaVamsi_G-1ca0f1?style=flat&labelColor=1ca0f1&logo=X&logoColor=white)](https://www.twitter.com/KrishnaVamsi_G)
 [![Mail Badge](https://img.shields.io/badge/-@Krishna_Vamsi-e84393?style=flat&labelColor=ee2a7b&logo=instagram&logoColor=white)](https://www.instagram.com/_krishna_vamsi_) 
 [![Mail Badge](https://img.shields.io/badge/-gujjulavamsi323-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gujjulavamsi323@gmail.com)
 
