@@ -4,9 +4,6 @@
 
 <h3>I'm Krishna Vamsi! <img src="res/logo.gif" width="50"></h3>
 
-
-I am currently pursuing my master's degree in Computer Science at the  [University of Central Florida](https://www.ucf.edu/).
-
 Experienced Software Engineer specializing in Android development with a passion for enhancing user engagement and app functionality through innovative design and robust backend services.
 
 Outside of work, I'm passionate about Cricket 🏏, cooking 🥘,  watching Movies 🎥,  exploring space 🌌 and hiking 🥾.
